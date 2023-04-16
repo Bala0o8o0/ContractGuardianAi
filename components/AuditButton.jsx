@@ -166,14 +166,12 @@ function AuditButton() {
         </button>
 
 
-        <div className='p-12   ' ></div>
+        <div className='p-12'></div>
         {/* -----------footer-------------------- */}
         <footer className="  ">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"> </div>
           <p className="text-center font-black text-[#48f600]">
-
-
-            © 2023 ContractGuardianAi, Inc. All rights reserved.
+            © 2023 ContractGuardianAi, Inc.All rights reserved.Build With💚By 0x👽Bala .
           </p>
 
         </footer>

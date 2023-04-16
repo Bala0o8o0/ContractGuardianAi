@@ -6,7 +6,6 @@ function GlassmorphismNavbar() {
     <nav className="fixed top-3  left-0 min-w-full sm:w-full z-10 flex items-center justify-center
      flex-wrap  bg-opacity-5  rounded-full backdrop-blur-md shadow-sm p-4">
       <div className="flex  items-center flex-shrink-0 mr-6">
-        {/* <img className="h-12   w-auto" src="/logo.png" alt="Logo" /> */}
         <Image
           src="/logo.png"
           alt="Logo"
